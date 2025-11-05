@@ -1,1 +1,1 @@
-console.log("This is my work account update...");
+console.log("Work account");
